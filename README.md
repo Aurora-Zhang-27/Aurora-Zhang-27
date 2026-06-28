@@ -1,5 +1,3 @@
-# Hi, I'm Aurora Zhang
-
 Honors Statistics student at the University of Alberta, with a minor in Computing Science.  
 I work on **machine learning, time-series forecasting, and carbon-aware energy systems**.
 
