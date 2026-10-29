@@ -1,7 +1,7 @@
 Honors Statistics student at the University of Alberta, with a minor in Computing Science.\
 I work on **machine learning, time-series forecasting, and carbon-aware energy systems**.
 
-Current focus: structured short-term grid carbon-intensity forecasting through fuel-mix surrogates, and open simulation environments for battery storage in the post-RTC+B ERCOT market.
+Current focus: structured short-term grid carbon-intensity forecasting through fuel-mix surrogates, optimization, efficient algorithms and simulation environment.
 
 ## Research Interests
 
