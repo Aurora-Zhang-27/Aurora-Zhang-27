@@ -9,14 +9,14 @@ Current focus: structured short-term grid carbon-intensity forecasting through f
 
 ## Selected Projects
 
-**[Open-Simulation-Environment-For-ERCOT](https://github.com/Aurora-Zhang-27/Open-Simulation-Environment-For-ERCOT)**\
-Open battery-storage environment for the post-RTC+B ERCOT market: real-time and day-ahead (two-settlement) episodes, exact optimization bounds, reproducible baselines, and offline ECRS tooling.
-
-**[decision-focused-carbon-forecasting](https://github.com/Aurora-Zhang-27/decision-focused-carbon-forecasting)**\
-Carbon-intensity forecasting and decision-focused evaluation for carbon-aware scheduling across ERCOT, NYISO, and PJM.
+**[fuelmix-carbon-intensity-forecasting](https://github.com/Aurora-Zhang-27/fuelmix-carbon-intensity-forecasting)**
+Code and results for my first-author paper "Structured Grid Carbon Intensity Short-Term Forecasting via Decision-Focused Surrogates": day-ahead carbon-intensity forecasting for seven North American regions via fuel-mix surrogates and decision-focused (SPO+) training.
 
 **[Project-Chameleon](https://github.com/Aurora-Zhang-27/Project-Chameleon)**\
 Runnable code and selected results for causal deliverability of lossless storage fleets, with exact rational recursions and certified policies.
+
+**[Open-Simulation-Environment-For-ERCOT](https://github.com/Aurora-Zhang-27/Open-Simulation-Environment-For-ERCOT)**\
+Open battery-storage environment for the post-RTC+B ERCOT market: real-time and day-ahead (two-settlement) episodes, exact optimization bounds, reproducible baselines, and offline ECRS tooling.
 
 ## Tools
 
